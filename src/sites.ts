@@ -295,11 +295,11 @@ export const sites: Site[] = [
 	{
 		title: "云合智联-建设数字新田园",
 		href: "https://www.yunhe.com.cn/",
-		thumbnail: "www.yunhe.com.cn.png",
+		thumbnail: "yunhe.com.cn.png",
 	},
 	{
 		title: "iDiMi-投资、创业、生活",
-		href: "https://idimi.com/",
+		href: "https://www.idimi.com/",
 		thumbnail: "idimi.com.png",
 	},
 ];
