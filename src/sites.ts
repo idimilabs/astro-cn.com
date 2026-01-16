@@ -293,7 +293,7 @@ export const sites: Site[] = [
 		thumbnail: "old-panda.com.png",
 	},
 	{
-		title: "云合智联-建设数字新田园",
+		title: "云合智联-建设数智新田园",
 		href: "https://www.yunhe.com.cn/",
 		thumbnail: "yunhe.com.cn.png",
 	},
